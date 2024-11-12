@@ -1,5 +1,5 @@
 <template>
     <section>
-        req
+        Requests
     </section>
 </template>
